@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "experimentalDecorators": true,
+    "lib": [
+      "deno.window"
+    ],
+    "strict": true
+  }
+}
